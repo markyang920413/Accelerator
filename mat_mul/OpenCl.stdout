@@ -1,0 +1,7 @@
+Matrix Multiplication
+C[1000 X 1000] = A[1000 X 1000] X B[1000 X 1000]
+OpenCL version...
+global_size[0]: 1000 local_size[0]: 10
+Elapsed time (excl. initialization): 0.033498 sec
+Elapsed time (incl. initialization): 0.132249 sec
+Verification success!

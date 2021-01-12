@@ -1,0 +1,5 @@
+OpenCL version...
+Elapsed time (excl. initialization): 0.025531 sec
+Verification success!
+Elapsed_time: 0.112978 sec
+global_size: 1020 local_size: 30
